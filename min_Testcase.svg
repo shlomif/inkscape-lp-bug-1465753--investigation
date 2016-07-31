@@ -90,18 +90,6 @@
        inkscape:vp_z="744.09451 : 1771.6535 : 1"
        inkscape:persp3d-origin="372.04724 : 1181.1023 : 1"
        id="perspective6099" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5991">
-      <stop
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0"
-         id="stop5993" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1"
-         id="stop5995" />
-    </linearGradient>
     <pattern
        patternUnits="userSpaceOnUse"
        width="37.359627"
@@ -234,15 +222,6 @@
            sodipodi:type="star" />
       </g>
     </marker>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5991"
-       id="linearGradient27084"
-       gradientUnits="userSpaceOnUse"
-       x1="278.42584"
-       y1="655.43896"
-       x2="322.42087"
-       y2="639.05225" />
   </defs>
   <metadata
      id="metadata7">
