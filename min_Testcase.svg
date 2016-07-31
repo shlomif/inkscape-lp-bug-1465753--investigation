@@ -90,7 +90,6 @@
        patternTransform="translate(387.74965,1625.2761)"
        id="pattern5965">
       <path
-         inkscape:connector-curvature="0"
          id="path5963"
          d="M 36.768468,0.27024402 0.5911583,79.408044"
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9020004;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#dbefdb;fill-opacity:1;fill-rule:nonzero;stroke:#41893c;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
@@ -114,7 +113,6 @@
      inkscape:label="Fixe Elemente"
      transform="translate(-305.83682,1665.2239)">
      <path
-       inkscape:connector-curvature="0"
        id="path3657-8"
        d="m 364.87418,-1627.276 a 28.718684,28.670998 0 0 1 -28.71868,28.671 28.718684,28.670998 0 0 1 -28.71868,-28.671 28.718684,28.670998 0 0 1 28.71868,-28.671 28.718684,28.670998 0 0 1 28.71868,28.671 z"
        style="fill:url(#pattern5961);fill-opacity:1;fill-rule:nonzero;stroke:#41893c;stroke-width:3.20000005;"
