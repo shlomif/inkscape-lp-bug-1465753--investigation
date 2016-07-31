@@ -56,48 +56,6 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
-    <inkscape:path-effect
-       effect="skeletal"
-       id="path-effect4561"
-       is_visible="true"
-       pattern="M 19.56476,19.5647 12.43777,14.7646 9.85851,22.9611 9.1678,14.3962 1.15137,17.49 7.41706,11.6099 0,7.2714 8.5039,8.5039 7.27141,0 l 4.33849,7.417 5.88017,-6.2657 -3.09388,8.0165 8.56494,0.6907 -8.19651,2.5793 z"
-       copytype="repeated"
-       prop_scale="1"
-       scale_y_rel="false"
-       spacing="5"
-       normal_offset="1.2"
-       tang_offset="1.1"
-       prop_units="false"
-       vertical_pattern="false"
-       fuse_tolerance="0" />
-    <inkscape:path-effect
-       effect="skeletal"
-       id="path-effect3724"
-       is_visible="true"
-       pattern="M 23.25342,11.9517 A 11.30171,11.30171 0 0 1 11.95171,23.2534 11.30171,11.30171 0 0 1 0.64999998,11.9517 11.30171,11.30171 0 0 1 11.95171,0.64999998 11.30171,11.30171 0 0 1 23.25342,11.9517 Z"
-       copytype="repeated"
-       prop_scale="1"
-       scale_y_rel="false"
-       spacing="0"
-       normal_offset="0"
-       tang_offset="0"
-       prop_units="false"
-       vertical_pattern="false"
-       fuse_tolerance="0" />
-    <inkscape:path-effect
-       effect="skeletal"
-       id="path-effect6441"
-       is_visible="true"
-       pattern="M 23.25342,11.9517 A 11.30171,11.30171 0 0 1 11.95171,23.2534 11.30171,11.30171 0 0 1 0.64999998,11.9517 11.30171,11.30171 0 0 1 11.95171,0.64999998 11.30171,11.30171 0 0 1 23.25342,11.9517 Z"
-       copytype="repeated"
-       prop_scale="1"
-       scale_y_rel="false"
-       spacing="5.4"
-       normal_offset="3.6"
-       tang_offset="3.2"
-       prop_units="false"
-       vertical_pattern="false"
-       fuse_tolerance="2.3" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5965"
@@ -125,40 +83,6 @@
          x="0"
          style="fill:black;stroke:none" />
     </pattern>
-    <inkscape:path-effect
-       effect="rough_hatches"
-       id="path-effect4506"
-       is_visible="true"
-       direction="112.58014,-1631.4464 , 20.069603,0"
-       dist_rdm="74.9;855820438"
-       growth="0.2"
-       do_bend="true"
-       bender="112.58014,-1626.4464 , 5,0"
-       bottom_edge_variation="10.33;2147483646"
-       top_edge_variation="8.02784;2147483646"
-       bottom_tgt_variation="2.5;2147483646"
-       top_tgt_variation="2.2;2147483646"
-       scale_bf="1.6"
-       scale_bb="0.9"
-       scale_tf="0.9"
-       scale_tb="1.1"
-       top_smth_variation="0.5;241699615"
-       bottom_smth_variation="0.7;2147483646"
-       fat_output="true"
-       stroke_width_top="2.1"
-       stroke_width_bottom="0"
-       front_thickness="1.3"
-       back_thickness="0.45" />
-    <inkscape:path-effect
-       effect="envelope"
-       id="path-effect8097"
-       is_visible="true"
-       yy="true"
-       xx="true"
-       bendpath1="m 51.98225,589.85321 638.44867,0"
-       bendpath2="m 690.43092,589.85321 0,146.61661"
-       bendpath3="m 51.98225,736.46982 638.44867,0"
-       bendpath4="m 51.98225,589.85321 0,146.61661" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 1771.6534 : 1"
