@@ -243,35 +243,6 @@
        y1="655.43896"
        x2="322.42087"
        y2="639.05225" />
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask27080">
-      <path
-         sodipodi:type="star"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient27084);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         id="path27082"
-         sodipodi:sides="7"
-         sodipodi:cx="289.39871"
-         sodipodi:cy="648.05585"
-         sodipodi:r1="40.560184"
-         sodipodi:r2="12.97926"
-         sodipodi:arg1="0.78539816"
-         sodipodi:arg2="1.2341971"
-         inkscape:flatsided="false"
-         inkscape:rounded="1.9082e-16"
-         inkscape:randomized="0"
-         d="m 318.07909,676.73623 -24.3936,-16.42948 -8.82808,28.05425 -2.36408,-29.3153 -27.43791,10.58947 21.44564,-20.12611 -25.38643,-14.84939 29.10636,4.21845 -4.21846,-29.10635 14.8494,25.38643 20.1261,-21.44564 -10.58946,27.4379 29.31529,2.36409 -28.05424,8.82807 z"
-         inkscape:transform-center-y="4.4140625e-05" />
-    </mask>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath28825">
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 110.24599,-563.7961 311.46821,0 c 8.04436,0 14.5205,8.30588 14.5205,18.62303 l 0,1.72789 c 0,10.31715 -6.47614,18.62303 -14.5205,18.62303 l -311.46821,0 c -8.04436,0 -14.520503,-8.30588 -14.520503,-18.62303 l 0,-1.72789 c 0,-10.31715 6.476143,-18.62303 14.520503,-18.62303 z"
-         id="path28827" />
-    </clipPath>
   </defs>
   <metadata
      id="metadata7">
