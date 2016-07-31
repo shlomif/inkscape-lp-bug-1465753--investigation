@@ -113,17 +113,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Fixe Elemente"
      transform="translate(-305.83682,1665.2239)">
-    <flowRoot
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="flowRoot4183"
-       xml:space="preserve"><flowRegion
-         id="flowRegion4185"><rect
-           y="24.579802"
-           x="42.518814"
-           height="38.120316"
-           width="274.17307"
-           id="rect4187" /></flowRegion><flowPara
-         id="flowPara4189" /></flowRoot>    <path
+     <path
        transform="translate(0,1.1718749e-5)"
        inkscape:connector-curvature="0"
        id="path3657-8"
