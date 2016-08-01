@@ -42,7 +42,8 @@
     <pattern
        xlink:href="#Strips1_1"
        id="pattern5961"
-       patternTransform="matrix(-1.9118163,2.0772814,-30.728658,-28.280978,4.2828915,-3290.4158)" />
+       patternTransform="translate(4.28, -3290) rotate(132)"
+        />
     <pattern
        id="Strips1_1"
        patternTransform="translate(0,0) scale(10,10)"
