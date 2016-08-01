@@ -46,7 +46,7 @@
         />
     <pattern
        id="Strips1_1"
-       patternTransform="translate(0,0) scale(10,10)"
+       patternTransform="scale(10,10)"
        height="1"
        width="2"
        patternUnits="userSpaceOnUse">
